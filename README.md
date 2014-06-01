@@ -12,10 +12,9 @@ Difficulty retarget : every block
 Available Supply: 100,000,000NUMC
 Premine:0.5%.(500,000 NUMC)
 IPO:10%(10,000,000 NUMC)
-GO>>>>>>>http://www.numbercoin.net/index.php?route=product/product&product_id=51
-LTC：LNaQVaMkHN41iH2fFivnxjpiQjADUxXsi7
-Sent LTC >= 1
-Hand statistics are a hard job , so I do not add DOGE wallet address receivables
+
+
+
 
 POW:11.2%（11,212,099 NUM）
 POS:88.3%(88,300,000)
