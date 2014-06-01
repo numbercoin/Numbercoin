@@ -17,7 +17,7 @@ IPO:10%(10,000,000 NUMC)
 
 
 POW:11.2%（11,212,099 NUM）
-POS:88.3%(88,300,000)
+POS:78.3%(88,300,000)
 Mined Block Confirmation: 50
 Transaction Confirmation: 3
 Min stake age: 1 day
